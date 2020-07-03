@@ -1,0 +1,17 @@
+{
+  "name": "yarnapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Vennela",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "moment": "^2.27.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
